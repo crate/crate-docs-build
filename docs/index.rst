@@ -15,5 +15,3 @@ guide) publicly available.
 
 .. toctree::
    :maxdepth: 2
-
-   conventions/index
