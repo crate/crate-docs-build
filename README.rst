@@ -2,8 +2,8 @@
 Crate Docs Build
 ================
 
-**This project has been archived and is no longer maintained.**
+*This project has been archived and is no longer maintained.*
 
-The successor project is `crate/crate-docs`_. Please go there instead.
+Please visit `crate/crate-docs`_ instead.
 
 .. _crate/crate-docs: https://github.com/crate/crate-docs
